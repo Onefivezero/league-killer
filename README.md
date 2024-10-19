@@ -1,4 +1,2 @@
 # league-killer
-Python application that periodically checks for and kills league processes.
-
-Just run it with "python league_killer.py"
+Python script that periodically checks for and kills League of Legends processes.
